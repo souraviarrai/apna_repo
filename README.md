@@ -1,2 +1,2 @@
 # apna_repo
-Author - Sourav Rai
+Author - Sourav Dungbung Rai
